@@ -1,6 +1,6 @@
-# Cocktail Finder 🍹
+# Mixology Search Lab 🍹
 
-> This project is built with vanilla JavaScript, the CocktailDb API and Bootstrap.
+> A sleek interface for discovering drinks via the CocktailDB API, allowing users to explore an extensive, open-source collection of global cocktail recipes and ingredients. Built with vanilla JavaScript, the CocktailDb API and Bootstrap.
 
 ### Links 
 
